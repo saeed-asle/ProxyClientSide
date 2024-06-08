@@ -1,4 +1,4 @@
-# Simple C Proxy
+# HTTP Proxy Client Side
 Authored by Saeed Asle
 
 cproxy.c :
